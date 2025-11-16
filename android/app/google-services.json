@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998372203288",
+    "project_id": "vivamais-550f1",
+    "storage_bucket": "vivamais-550f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998372203288:android:d2e000b4669c3e39711c6d",
+        "android_client_info": {
+          "package_name": "com.example.viva_mais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMDXtFXsOkOHswLE0DteH3IvE62S_W9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
